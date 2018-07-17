@@ -1,0 +1,2 @@
+# Opencv_grayscale
+使用opencv实现对图像的灰度图转换
